@@ -1,0 +1,22 @@
+{
+  "name": "hello-saturn",
+  "version": "1.0.0",
+  "description": "Say hello to Mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erntdev/hello-saturn.git"
+  },
+  "keywords": [
+    "saturn"
+  ],
+  "author": "Ernesto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erntdev/hello-saturn/issues"
+  },
+  "homepage": "https://github.com/erntdev/hello-saturn#readme"
+}
