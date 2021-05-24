@@ -1,7 +1,7 @@
 module.exports = function(lang) {
   if (lang === "es") {
-    console.log('Hola Saturno!!');
+    console.log('Hola Saturno!!!');
   } else {
-    console.log('Hello Saturn!!');
+    console.log('Hello Saturn!!!');
   }
 }
